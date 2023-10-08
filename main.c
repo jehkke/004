@@ -14,9 +14,9 @@ int main(int argc, char *argv[]) {
 	printf("%i - %i= %i \n",a,b,a-b);
 	printf("%i * %i= %i \n",a,b,a*b);
 	printf("%i / %i= %i \n",a,b,a/b);
-	printf("%i % %i= %i \n",a,b,a%b);
+	printf("%i %% %i= %i \n",a,b,a%b);
 	
-	system("PAUSE");
+	
 	return 0;
 	
 }
